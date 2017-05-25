@@ -1,0 +1,29 @@
+/*Custom CodeMirror skin by WPExplorer.com*/
+.cm-s-wpex.CodeMirror {background: #272822; color: #fff;font-size:16px;}
+.cm-s-wpex div.CodeMirror-selected {background: #49483e !important;}
+
+.cm-s-wpex .CodeMirror-gutters {background: #272822; border-right: 0px;}
+.cm-s-wpex .CodeMirror-guttermarker { color: #db2d20; }
+.cm-s-wpex .CodeMirror-guttermarker-subtle { color: #807d7c; }
+.cm-s-wpex .CodeMirror-linenumber {color: #807d7c;}
+
+.cm-s-wpex .CodeMirror-cursor {border-left: 1px solid #5c5855 !important;}
+
+.cm-s-wpex span.cm-comment {color: #75715e;}
+.cm-s-wpex span.cm-atom {color: #66d9ef;}
+.cm-s-wpex span.cm-number {color: #ab7be9;}
+
+.cm-s-wpex span.cm-property, .cm-s-wpex span.cm-attribute, .cm-s-wpex span.cm-builtin, .cm-s-wpex span.cm-qualifier, .cm-s-wpex span.cm-meta, .cm-s-wpex span.cm-variable-3 {color: #a6e22d;}
+.cm-s-wpex span.cm-keyword {color: #f92770;}
+.cm-s-wpex span.cm-string {color: #bad074;}
+
+.cm-s-wpex span.cm-variable {color: #a6e22d;}
+.cm-s-wpex span.cm-variable-2 {color: #a6e22d;}
+.cm-s-wpex span.cm-def {color: #f92770;}
+.cm-s-wpex span.cm-bracket {color: #3a3432;}
+.cm-s-wpex span.cm-tag {color: #f92770;}
+.cm-s-wpex span.cm-link {color: #a16a94;}
+.cm-s-wpex span.cm-error {background: #ef224d; color: #fff;}
+
+.cm-s-wpex .CodeMirror-activeline-background {background: #e8f2ff !important;}
+.cm-s-wpex .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}

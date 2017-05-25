@@ -1,0 +1,24 @@
+/*==================================================
+
+ Theme Name:	Zero
+ Version:		1.0.0
+ Description:	Zero WordPress Theme by WPExplorer
+ Author:		WPExplorer
+ Author URI:	http://www.wpexplorer.com
+ Theme URI:		http://www.wpexplorer.com/
+ License:		Custom license
+ License URI:	http://themeforest.net/licenses/terms/regular
+
+================================================== */
+
+.sidebar-container { float: left; width: 400px; background: #1b1b1b; padding: 80px; }
+.sidebar-inner { float: left; width: 100%; }
+
+.site-main { float: left; width: 600px; }
+.site-main-inner { width: 800px; float: left; }
+
+ .widget-recent-list .thumbnail { display: block; }
+ .widget-recent-list .thumbnail img { width: 60px; height: 60px; }
+
+ .clr:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; }
+* html .clr:after { height: 1%; overflow: visible; }

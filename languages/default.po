@@ -1,0 +1,824 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zero WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-06 17:54-0800\n"
+"PO-Revision-Date: 2015-01-06 17:54-0800\n"
+"Last-Translator: AJ Clarke <wpexplorer@gmail.com>\n"
+"Language-Team: WPExplorer.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_nx\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "404 Error: Not Found"
+msgstr ""
+
+#: ../comments.php:35
+msgid "This article has 1 comment"
+msgstr ""
+
+#: ../comments.php:37
+#, php-format
+msgid "This article has %s comments"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Comments are now closed."
+msgstr ""
+
+#: ../functions.php:162
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:288 ../inc/customizer-config.php:594
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:290
+msgid "Widgets in this area are used in the sidebar region."
+msgstr ""
+
+#: ../functions.php:389
+msgid "Featured Image"
+msgstr ""
+
+#: ../functions.php:472
+msgid "Highlight"
+msgstr ""
+
+#: ../functions.php:477
+msgid "Buttons"
+msgstr ""
+
+#: ../functions.php:480 ../functions.php:525 ../inc/customizer-config.php:22
+#: ../inc/classes/custom-metaboxes/init.php:244
+#: ../inc/classes/customizer/controls.php:215
+msgid "Default"
+msgstr ""
+
+#: ../functions.php:485
+msgid "Red"
+msgstr ""
+
+#: ../functions.php:490
+msgid "Green"
+msgstr ""
+
+#: ../functions.php:495
+msgid "Blue"
+msgstr ""
+
+#: ../functions.php:500
+msgid "Orange"
+msgstr ""
+
+#: ../functions.php:505
+msgid "Black"
+msgstr ""
+
+#: ../functions.php:510
+msgid "White"
+msgstr ""
+
+#: ../functions.php:515
+msgid "Clean"
+msgstr ""
+
+#: ../functions.php:522
+msgid "Notices"
+msgstr ""
+
+#: ../functions.php:530
+msgid "Info"
+msgstr ""
+
+#: ../functions.php:535
+msgid "Warning"
+msgstr ""
+
+#: ../functions.php:540
+msgid "Success"
+msgstr ""
+
+#: ../searchform.php:14
+msgid "search"
+msgstr ""
+
+#: ../inc/core-functions.php:119
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/core-functions.php:143
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/core-functions.php:153
+msgid "Reply"
+msgstr ""
+
+#: ../inc/core-functions.php:159
+msgid "Edit"
+msgstr ""
+
+#: ../inc/customizer-config.php:38
+msgid "General Theme Settings"
+msgstr ""
+
+#: ../inc/customizer-config.php:44 ../inc/customizer-config.php:149
+msgid "Logo"
+msgstr ""
+
+#: ../inc/customizer-config.php:50
+msgid "Custom Logo"
+msgstr ""
+
+#: ../inc/customizer-config.php:57
+msgid "Custom Retina Logo"
+msgstr ""
+
+#: ../inc/customizer-config.php:64
+msgid "Standard Logo Height"
+msgstr ""
+
+#: ../inc/customizer-config.php:65
+msgid ""
+"Enter the standard height for your logo. Used to set your retina logo to the "
+"correct dimensions"
+msgstr ""
+
+#: ../inc/customizer-config.php:74
+msgid "Entries & Posts"
+msgstr ""
+
+#: ../inc/customizer-config.php:80
+msgid "Entry Thumbnail"
+msgstr ""
+
+#: ../inc/customizer-config.php:88
+msgid "Entry Meta"
+msgstr ""
+
+#: ../inc/customizer-config.php:96
+msgid "Post Thumbnail"
+msgstr ""
+
+#: ../inc/customizer-config.php:104
+msgid "Post Meta"
+msgstr ""
+
+#: ../inc/customizer-config.php:112
+msgid "Post Tags"
+msgstr ""
+
+#: ../inc/customizer-config.php:120
+msgid "Post Social Share"
+msgstr ""
+
+#: ../inc/customizer-config.php:128
+msgid "Post Author Box"
+msgstr ""
+
+#: ../inc/customizer-config.php:143
+msgid "Typography"
+msgstr ""
+
+#: ../inc/customizer-config.php:155 ../inc/customizer-config.php:218
+#: ../inc/customizer-config.php:269 ../inc/customizer-config.php:301
+#: ../inc/customizer-config.php:362 ../inc/customizer-config.php:423
+#: ../inc/customizer-config.php:484
+msgid "Font Family"
+msgstr ""
+
+#: ../inc/customizer-config.php:166 ../inc/customizer-config.php:229
+#: ../inc/customizer-config.php:280 ../inc/customizer-config.php:312
+#: ../inc/customizer-config.php:373 ../inc/customizer-config.php:434
+#: ../inc/customizer-config.php:495
+msgid "Font Weight"
+msgstr ""
+
+#: ../inc/customizer-config.php:178 ../inc/customizer-config.php:241
+#: ../inc/customizer-config.php:324 ../inc/customizer-config.php:385
+#: ../inc/customizer-config.php:446 ../inc/customizer-config.php:507
+msgid "Font Size"
+msgstr ""
+
+#: ../inc/customizer-config.php:179 ../inc/customizer-config.php:242
+#: ../inc/customizer-config.php:325 ../inc/customizer-config.php:386
+#: ../inc/customizer-config.php:447 ../inc/customizer-config.php:508
+msgid "Leave at 0 to use theme default."
+msgstr ""
+
+#: ../inc/customizer-config.php:196 ../inc/customizer-config.php:342
+#: ../inc/customizer-config.php:403 ../inc/customizer-config.php:464
+#: ../inc/customizer-config.php:525
+msgid "Text Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:212
+msgid "Body"
+msgstr ""
+
+#: ../inc/customizer-config.php:262
+msgid "Heading Tags"
+msgstr ""
+
+#: ../inc/customizer-config.php:295
+msgid "Widget Titles"
+msgstr ""
+
+#: ../inc/customizer-config.php:357
+msgid "Entry Title"
+msgstr ""
+
+#: ../inc/customizer-config.php:418
+msgid "Post Title"
+msgstr ""
+
+#: ../inc/customizer-config.php:479
+msgid "Main Content"
+msgstr ""
+
+#: ../inc/customizer-config.php:544
+msgid "Styling"
+msgstr ""
+
+#: ../inc/customizer-config.php:550
+msgid "Main"
+msgstr ""
+
+#: ../inc/customizer-config.php:555
+msgid "Highlight Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:567 ../inc/customizer-config.php:623
+msgid "Links"
+msgstr ""
+
+#: ../inc/customizer-config.php:579 ../inc/customizer-config.php:635
+msgid "Links: Hover"
+msgstr ""
+
+#: ../inc/customizer-config.php:599
+msgid "Background"
+msgstr ""
+
+#: ../inc/customizer-config.php:611
+msgid "Text"
+msgstr ""
+
+#: ../inc/customizer-config.php:647
+msgid "Dividers"
+msgstr ""
+
+#: ../inc/customizer-config.php:659
+msgid "Borders"
+msgstr ""
+
+#: ../inc/customizer-config.php:671
+msgid "Search Background"
+msgstr ""
+
+#: ../inc/customizer-config.php:683
+msgid "Search Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:695
+msgid "Tags Background"
+msgstr ""
+
+#: ../inc/customizer-config.php:707
+msgid "Tags Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:720
+msgid "Widget Tab Background"
+msgstr ""
+
+#: ../inc/customizer-config.php:733
+msgid "Widget Tab Background: Hover/Active"
+msgstr ""
+
+#: ../inc/customizer-config.php:746
+msgid "Widget Tab Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:759
+msgid "Widget Tab Color: Hover/Active"
+msgstr ""
+
+#: ../inc/customizer-config.php:779
+msgid "Image Sizes"
+msgstr ""
+
+#: ../inc/customizer-config.php:785
+msgid "Entries"
+msgstr ""
+
+#: ../inc/customizer-config.php:786 ../inc/customizer-config.php:819
+msgid ""
+"If you alter any image sizes you will have to regenerate your thumbnails."
+msgstr ""
+
+#: ../inc/customizer-config.php:792 ../inc/customizer-config.php:825
+msgid "Image Width"
+msgstr ""
+
+#: ../inc/customizer-config.php:800 ../inc/customizer-config.php:833
+msgid "Image Height"
+msgstr ""
+
+#: ../inc/customizer-config.php:808 ../inc/customizer-config.php:841
+msgid "Force Crop"
+msgstr ""
+
+#: ../inc/customizer-config.php:818
+msgid "Posts"
+msgstr ""
+
+#: ../inc/meta-config.php:27
+msgid "Post Settings"
+msgstr ""
+
+#: ../inc/meta-config.php:34
+msgid "Video"
+msgstr ""
+
+#: ../inc/meta-config.php:35
+msgid ""
+"Enter your embed code or enter in a URL that is compatible with WordPress's "
+"built-in oEmbed function or self-hosted video function."
+msgstr ""
+
+#: ../inc/classes/custom-css/custom-css.php:73
+#: ../inc/classes/custom-css/custom-css.php:74
+#: ../inc/classes/custom-css/custom-css.php:179
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/classes/custom-css/custom-css.php:165
+msgid "Settings saved."
+msgstr ""
+
+#: ../inc/classes/custom-css/custom-css.php:181
+msgid ""
+"Use the form below to add custom CSS to tweak your theme design. These will "
+"be stored in your theme_mods."
+msgstr ""
+
+#: ../inc/classes/custom-css/custom-css.php:182
+msgid "Toggle Skin"
+msgstr ""
+
+#: ../inc/classes/custom-metaboxes/init.php:243
+msgid "Clear"
+msgstr ""
+
+#: ../inc/classes/custom-metaboxes/init.php:245
+msgid "Select Color"
+msgstr ""
+
+#: ../inc/classes/custom-metaboxes/init.php:246
+msgid "Current Color"
+msgstr ""
+
+#: ../inc/classes/custom-metaboxes/init.php:1226
+msgid "Save"
+msgstr ""
+
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:150
+msgid "Add Row"
+msgstr ""
+
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:178
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:499
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:542
+msgid "Remove"
+msgstr ""
+
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:477
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:515
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:488
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:534
+msgid "Remove Image"
+msgstr ""
+
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:499
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:542
+msgid "File:"
+msgstr ""
+
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:499
+#: ../inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:542
+msgid "Download"
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:32
+#: ../inc/classes/customizer/import-export.php:33
+msgid "Customizer Manager"
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:86
+msgid "All theme customizer settings have been reset."
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:98
+msgid "Theme customizer settings imported successfully."
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:103
+msgid "Invalid Import Data."
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:109
+msgid "No import data found."
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:137
+msgid "Import, Export or Reset Customizer Settings"
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:155
+msgid "Export Customizer Options"
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:167
+msgid "No Options Found"
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:172
+msgid "Highlight Options"
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:177
+msgid "Import Customizer Options"
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:185
+#: ../inc/classes/customizer/import-export.php:214
+msgid "Import Options"
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:186
+msgid "Reset Options"
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:187
+msgid "Cancel Reset"
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:190
+msgid ""
+"Always make sure you have a backup of your settings before resetting, just "
+"incase!"
+msgstr ""
+
+#: ../inc/classes/customizer/import-export.php:206
+msgid "Confirm Reset"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:56
+msgid "Image Gallery"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:82
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:144
+msgid "Remove image"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:92
+msgid "Add/Edit Images"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:103
+msgid "Enable Lightbox for this gallery?"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:125
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:127
+msgid "Add to gallery"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:27
+msgid "Posts With Thumbnails"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:29
+msgid "Recent posts with thumbnails."
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:165
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:183
+#: ../inc/widgets/posts-thumbnails.php:208
+msgid "Title"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:187
+msgid "Number to Show"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:191
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:195
+msgid "Order"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:198
+msgid "Descending"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:199
+msgid "Ascending"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:203
+msgid "Order By"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:207
+msgid "Date"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:209
+msgid "Modified"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:210
+msgid "Author"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:211
+msgid "Random"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:212
+msgid "Comment Count"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:222
+msgid "Category"
+msgstr ""
+
+#: ../inc/widgets/posts-thumbnails.php:225
+msgid "All"
+msgstr ""
+
+#: ../inc/widgets/social.php:29
+msgid "Social Profiles"
+msgstr ""
+
+#: ../inc/widgets/social.php:30
+msgid ""
+"Displays icons with links to your social profiles with drag and drop support "
+"and Font Awesome Icons."
+msgstr ""
+
+#: ../inc/widgets/social.php:197
+msgid "Follow Us"
+msgstr ""
+
+#: ../inc/widgets/social.php:285 ../inc/widgets/tabs.php:215
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/social.php:290
+msgid "Description:"
+msgstr ""
+
+#: ../inc/widgets/social.php:295
+msgid "Link Target:"
+msgstr ""
+
+#: ../inc/widgets/social.php:298
+msgid "Blank"
+msgstr ""
+
+#: ../inc/widgets/social.php:299
+msgid "Self"
+msgstr ""
+
+#: ../inc/widgets/social.php:304
+msgid "Icon Size"
+msgstr ""
+
+#: ../inc/widgets/social.php:306
+msgid "Enter a size to be used for the height/width for the icon."
+msgstr ""
+
+#: ../inc/widgets/social.php:310
+msgid "Icon Font Size"
+msgstr ""
+
+#: ../inc/widgets/social.php:312
+msgid "Enter a custom font size for the icons."
+msgstr ""
+
+#: ../inc/widgets/social.php:316
+msgid "Border Radius"
+msgstr ""
+
+#: ../inc/widgets/social.php:318
+msgid ""
+"Enter a custom border radius. For circular icons enter a number equal or "
+"greater to the Icon Size field above."
+msgstr ""
+
+#: ../inc/widgets/social.php:324
+msgid "Social Links"
+msgstr ""
+
+#: ../inc/widgets/social.php:325
+msgid "Enter the full URL to your social profile"
+msgstr ""
+
+#: ../inc/widgets/tabs.php:27
+msgid "Tabs"
+msgstr ""
+
+#: ../inc/widgets/tabs.php:29
+msgid "Popular Posts, Recent Posts & Recent Comments."
+msgstr ""
+
+#: ../inc/widgets/tabs.php:142
+msgid "No comments yet."
+msgstr ""
+
+#: ../inc/widgets/tabs.php:219
+msgid "Number to Show:"
+msgstr ""
+
+#: ../partials/entry-meta.php:52 ../partials/post-meta.php:57
+msgid "Posted on"
+msgstr ""
+
+#: ../partials/entry-meta.php:55 ../partials/post-meta.php:69
+msgid "in"
+msgstr ""
+
+#: ../partials/entry-meta.php:58
+msgid "with"
+msgstr ""
+
+#: ../partials/entry-meta.php:58
+msgid "0 Comments"
+msgstr ""
+
+#: ../partials/entry-meta.php:58
+msgid "1 Comment"
+msgstr ""
+
+#: ../partials/entry-meta.php:58
+msgid "% Comments"
+msgstr ""
+
+#: ../partials/entry-none.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../partials/entry-none.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../partials/entry-none.php:19
+msgid "There aren't any posts currently published in this category."
+msgstr ""
+
+#: ../partials/entry-none.php:21
+msgid "There aren't any posts currently published under this taxonomy."
+msgstr ""
+
+#: ../partials/entry-none.php:23
+msgid "There aren't any posts currently published under this tag."
+msgstr ""
+
+#: ../partials/entry-none.php:25
+msgid "Unfortunately, the page you are looking for does not exist."
+msgstr ""
+
+#: ../partials/entry-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: ../partials/entry-readmore.php:24
+msgid "Read More"
+msgstr ""
+
+#: ../partials/header-nav.php:26
+msgid "Menu"
+msgstr ""
+
+#: ../partials/post-author.php:40
+#, php-format
+msgid "Written by %s"
+msgstr ""
+
+#: ../partials/post-author.php:51
+msgid "View all author posts"
+msgstr ""
+
+#: ../partials/post-edit.php:20
+msgid "Edit Post"
+msgstr ""
+
+#: ../partials/post-meta.php:55
+msgid "Uploaded on"
+msgstr ""
+
+#: ../partials/post-meta.php:64
+msgid "Post link"
+msgstr ""
+
+#: ../partials/post-share.php:44
+msgid "Share This Photo"
+msgstr ""
+
+#: ../partials/post-share.php:46
+msgid "Share This Post"
+msgstr ""
+
+#: ../partials/post-share.php:64
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../partials/post-share.php:69
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../partials/post-share.php:74
+msgid "Share on Google+"
+msgstr ""
+
+#: ../partials/post-share.php:79
+msgid "Share on Pinterest"
+msgstr ""
+
+#: ../partials/post-share.php:84
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: ../partials/post-tags.php:28
+msgid "Tagged as"
+msgstr ""
+
+#: ../partials/search-header.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../templates/archives.php:27
+msgid "Latest Posts"
+msgstr ""
+
+#: ../templates/archives.php:47
+msgid "Archives by Month"
+msgstr ""
+
+#: ../templates/archives.php:52
+msgid "Archives by Category"
+msgstr ""

@@ -1,0 +1,51 @@
+/**
+ * Theme Name: Corporate RTL CSS
+ * Description: Adds support for languages written in a Right To Left (RTL) direction.
+ * It's easy, just a matter of overwriting all the horizontal positioning attributes
+ * of your CSS stylesheet in a separate stylesheet file named rtl.css.
+ * 
+ * Lean More: http://codex.wordpress.org/Right_to_Left_Language_Support
+ */
+
+ .col, .gallery-item { float: right; }
+
+.sidebar-container { float: right; }
+.site-main { float: left; }
+
+.site-logo img { float: right; }
+#site-navigation li ul { margin-left: 0; margin-right: 10px; }
+.site-searchform button { right: auto; left: 0; }
+
+.sidebar-container .widget-recent-list li { padding-left: 0; padding-right: 80px; }
+.widget-recent-list .thumbnail { left: auto; right: 0; }
+.wpex-tabs-widget-tabs li { float: right; }
+.widget_tag_cloud a { float: right; }
+
+.entry-meta ul { float: right; text-align: right; }
+.entry-meta li,
+.post-meta li { float: right; margin-right: 0; margin-left: 5px; }
+.entry-meta .entry-readmore,
+.entry-readmore .readmore { float: left; }
+
+.author-info .author-info-inner { padding-left: 0; padding-right: 100px; }
+.author-info .author-avatar { left: auto; right: 0; }
+
+.comment-details { margin-left: 0; }
+.comment-details { margin-right: 80px; }
+.comment-author { left: auto; right: 0; }
+.comment-footer a { float: right; margin-right: 0; margin-left: 4px; }
+a#cancel-comment-reply-link { float: left; }
+
+.post-navigation .nav-next { float: right; text-align: right; }
+.post-navigation .nav-previous { float: left; text-align: left; }
+.post-navigation .nav-next .fa:before { content: "\f061"; }
+.post-navigation .nav-previous .fa:before { content: "\f060"; }
+.post-navigation .nav-next .fa { margin-right: 0; margin-left: 8px; }
+.post-navigation .nav-previous .fa { margin-left: 0; margin-right: 8px; }
+
+ul.page-numbers li { float: right; margin-right: 0; margin-left: 4px; }
+.page-numbers .next .fa:before { content: "\f104"; }
+.page-numbers .prev .fa:before { content: "\f105"; }
+
+.lSSlideOuter {  direction: ltr !important; }
+.lSSlideOuter .lSPager.lSpg { direction: rtl !important; }
