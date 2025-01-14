@@ -22,16 +22,6 @@
  * @since       1.0.0
  */
 
-// Theme info
-function wpex_get_theme_info() {
-    return array(
-        'name'      => 'Zero',
-        'dir'       => get_template_directory_uri() .'/inc/',
-        'url'       => 'http://wpexplorer-themes.com/zero/',
-        'changelog' => 'http://wpexplorer-themes.com/zero/changelog/',
-    );
-}
-
 /**
  * Define content_width variable
  *
@@ -113,14 +103,6 @@ class WPEX_THEME_SETUP {
         require_once( $this->template_dir .'/inc/widgets/social.php' );
         require_once( $this->template_dir .'/inc/widgets/tabs.php' );
         require_once( $this->template_dir .'/inc/widgets/posts-thumbnails.php' );
-
-        // Dashboard feed and welcome screen
-        if ( ! defined( 'WPEX_DISABLE_THEME_ABOUT_PAGE' ) ) {
-            require_once( $this->template_dir .'/inc/dashboard-feed.php' );
-        }
-        if ( ! defined( 'WPEX_DISABLE_THEME_DASHBOARD_FEEDS' ) ) {
-            require_once( $this->template_dir .'/inc/welcome.php' );
-        }
 
         // Add excerpt support to pages
         add_post_type_support( 'page', 'excerpt' );
