@@ -52,11 +52,6 @@ class WPEX_THEME_SETUP {
         $this->css_dir_uri      = $this->template_dir_uri .'/css/';
         $this->js_dir_uri       = $this->template_dir_uri .'/js/';
 
-        // Auto updates
-        if ( is_admin() ) {
-            require_once( $this->template_dir .'/inc/updates.php' );
-        }
-
         // Include functions and classes
         add_action( 'init', array( $this, 'load_files' ) );
 
